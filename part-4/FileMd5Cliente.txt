@@ -1,0 +1,1 @@
+db7e109f40f917f3bbb2f9819ca030da  /home/hendrix/Escritorio/Lab4.3cpp/CarpetaCliente/ccv.txt
